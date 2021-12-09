@@ -19,11 +19,12 @@ div {
 }
 
 h1 {
+    font-size: 16px;
+    font-weight: 700;
     width: 100%!important;
 }
 
-.img {
-    margin: 0 auto;
+img {
     width: 100%!important;
     height: 200px;
 }
