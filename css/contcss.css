@@ -19,12 +19,21 @@ div {
 }
 
 h1 {
-    font-size: 16px;
+    font-size: 24px;
     font-weight: 700;
     width: 100%!important;
+}
+
+p {
+    font-size: 18px;
 }
 
 img {
     width: 100%!important;
     height: 200px;
+}
+
+.pin ul li p {
+    font-size: 16px;
+    font-family: 800!important;
 }
