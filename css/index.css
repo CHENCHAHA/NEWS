@@ -31,7 +31,6 @@ body {
 .new {
     width: 100%;
     height: 400px;
-    background-color: aqua;
 }
 
 .block {
@@ -40,4 +39,50 @@ body {
 
 .none {
     display: none;
+}
+
+.news ul li {
+    width: 100%;
+    height: 100px;
+    background-color: #f2f2f2;
+    border-bottom: 1px solid red;
+}
+
+.tu {
+    width: 30%;
+    height: 99px;
+    background-color: aqua;
+}
+
+.wen {
+    width: 70%;
+    height: 100%;
+}
+
+.tex {
+    width: 100%;
+    height: 48px;
+    background-color: aquamarine;
+}
+
+.pd {
+    width: 100%;
+    height: 48px;
+    background-color: beige;
+}
+
+.pd p {
+    float: left;
+}
+
+.tex p {
+    float: left;
+}
+
+.news ul li .tu {
+    float: left;
+}
+
+.news ul li .wen {
+    float: left;
 }
