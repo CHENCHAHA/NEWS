@@ -25,3 +25,17 @@ body {
 .nav-tabs li {
     margin: 0 5px!important;
 }
+
+.new {
+    width: 100%;
+    height: 400px;
+    background-color: aqua;
+}
+
+.block {
+    display: block;
+}
+
+.none {
+    display: none;
+}
