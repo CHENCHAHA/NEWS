@@ -52,7 +52,6 @@ body {
 .tu {
     width: 30%;
     height: 99px;
-    background-color: aqua;
 }
 
 .tu img {
@@ -68,13 +67,11 @@ body {
 .tex {
     width: 100%;
     height: 78px;
-    background-color: aquamarine;
 }
 
 .pd {
     width: 100%;
     height: 21px;
-    background-color: beige;
 }
 
 .pd p {
