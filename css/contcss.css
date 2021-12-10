@@ -25,7 +25,37 @@ h1 {
 }
 
 p {
-    font-size: 18px;
+    font-size: 16px;
+}
+
+.zan {
+    font-size: 16px;
+}
+
+.zan span {
+    font-size: 16px;
+    color: red;
+}
+
+.inp {
+    width: 70%;
+    outline: none;
+    box-sizing: border-box;
+    border: 1px solid rgb(72, 72, 241);
+}
+
+.fa {
+    font-size: 20px;
+    height: 40px;
+    outline: none;
+    box-sizing: border-box;
+    border: 1px solid rgb(72, 72, 241);
+}
+
+.dian {
+    font-size: 20px;
+    outline: none;
+    border: 1px solid rgb(72, 72, 241);
 }
 
 img {
@@ -34,6 +64,14 @@ img {
 }
 
 .pin ul li p {
-    font-size: 16px;
+    font-size: 12px!important;
     font-family: 800!important;
+}
+
+ul li {
+    font-size: 18px;
+}
+
+ul li span {
+    font-size: 18px;
 }
